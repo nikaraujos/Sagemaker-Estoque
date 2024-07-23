@@ -12,6 +12,8 @@ Antes de começar, certifique-se de ter uma conta na AWS. Se precisar de ajuda p
 ![image](https://github.com/digitalinnovationone/lab-aws-sagemaker-canvas-estoque/assets/730492/72f5c21f-5562-491e-aa42-2885a3184650)
 
 
+
+
 ## 🚀 Passo a Passo
 
 ### 1. Selecionando o Dataset

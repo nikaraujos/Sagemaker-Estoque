@@ -30,4 +30,4 @@ Antes de começar, certifique-se de ter uma conta na AWS. Se precisar de ajuda p
 
 ### 4. Prever
 
--   Logo na primeira previsão, apresenta divergência no resultado, na qual a quantidade de encomendas em tempo hábil foi superior ao previsto.
+-   Logo na primeira previsão, apresenta divergência no resultado, na qual a quantidade de encomendas em tempo hábil foi superior ao previsto na etapa da analise. Após algumas novas tentativas, o estudo ainda indicava que, aproximadamente, mais de 80% dos produtos seriam entregues dentro do prazo. Além disso, comparações entre as empresas Bigbird, GlobalFreight, Midcarrier e Shippier mostraram que as entregas express da Shipper e ground da GlobalFreight estariam liderando essa estatística.
